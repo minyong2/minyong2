@@ -1,4 +1,4 @@
-### <ITALIC>AN NYEONG , I'm MINOONG 👋
+### <ITALIC>AN NYEONG</ITALIC> , I'm MINOONG 👋
 
 <!--
 **minyong2/minyong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
