@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyong2&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minyong2&repo=github-readme-stats)](https://github.com/minyong2/github-readme-stats)
