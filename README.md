@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyong2&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyong2)](https://github.com/minyong2/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minyong2&repo=github-readme-stats)](https://github.com/minyong2/github-readme-stats)
