@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github.com/minyong2[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EAB6FF&title_bg=%23D38BFF&icon=twitter.svg&icon_color=%2342005B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **minyong2/minyong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
