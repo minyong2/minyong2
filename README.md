@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?minyong2=jhe226&layout=compact)](https://github.com/minyong2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ᴍɪɴᴏᴏɴɢ=jhe226&layout=compact)](https://github.com/ᴍɪɴᴏᴏɴɢ/github-readme-stats)
 
 
 
