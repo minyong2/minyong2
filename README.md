@@ -2,8 +2,6 @@
 
 <img src="http://img.shields.io/badge/-hibiscustrionum-4285F4?style=flat&logo=Instagram&link=http://instagram.com/hibiscustrionum/"/></a>
 
-### 디버깅 습관 들이기👩🏻‍💻
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyong2&layout=compact)](https://github.com/minyong2/github-readme-stats)
  
 
