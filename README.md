@@ -24,7 +24,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/CLASS-BACKEND_ARCHITECT-orange?style=flat-square">
   <img src="https://img.shields.io/badge/HP-100%2F100-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/EXP-LEVEL_MAX-blueviolet?style=flat-square">
 </p>
 
 ---
