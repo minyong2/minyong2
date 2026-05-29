@@ -2,13 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 # AN NYEONG, I'm MINOONG 🦔
 
-<p align="left">
-  <!-- Instagram -->
-  <a href="http://instagram.com/hibiscustrionum/">
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🎮 STATUS
