@@ -23,8 +23,9 @@
 - 🔭 **Currently working on:** 개인 프로젝트 빌드업 및 백엔드 역량 강화
 - 🌱 **Currently learning:** 대용량 트래픽 처리 및 효율적인 아키텍처 구조 공부
 - 💬 **Ask me about:** Java, Backend Development
-- 📫 **How to reach me:** `hibiscustrionum` (Instagram)
-
+- 📫 **How to reach me:**   <a href="http://instagram.com/hibiscustrionum/">
+    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a> 
 <br>
 
 ## 🛠️ Tech Stacks
