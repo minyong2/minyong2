@@ -11,6 +11,22 @@
   </a>
 </p>
 
+<!-- ⌨️ 실시간 타이핑 효과 애니메이션 추가 -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);;I'm+a+Backend+Developer+MINOONG.🦔;Developing+with+Java+and+Spring+Boot...;Always+strive+to+grow+every+day!;" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 🎮 STATUS
+<p align="left">
+  <img src="https://img.shields.io/badge/CLASS-BACKEND_ARCHITECT-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/HP-100%2F100-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/EXP-LEVEL_MAX-blueviolet?style=flat-square">
+</p>
+
 ---
 
 ## 🚀 About Me
