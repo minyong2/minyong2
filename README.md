@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 # AN NYEONG, I'm MINOONG 🦔
 
 <p align="left">
@@ -78,3 +81,5 @@
 
 ## 💻 Contribution
 > 💡 *상세한 토이 프로젝트 소스 코드와 커밋 히스토리는 아래 **Repositories** 탭에서 확인하실 수 있습니다.*
+>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
