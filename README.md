@@ -14,18 +14,21 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **Currently working on:** 
-- 🌱 **Currently learning:** 
+- 🔭 **Currently working on:** 개인 프로젝트 및 백엔드 역량 강화
+- 🌱 **Currently learning:** 새로운 기술 스택 및 효율적인 아키텍처
 - 💬 **Ask me about:** Java, Backend Development
 - 📫 **How to reach me:** `hibiscustrionum` (Instagram)
 
 <br>
 
-## 📊 GitHub Stats
-
+## 🛠️ Tech Stacks
 <p align="left">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minyong2&show_icons=true&theme=transparent" alt="Minyong's GitHub stats" height="150" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyong2&layout=compact&theme=transparent" alt="Top Langs" height="150" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
+
+<br>
+
+## 🏆 GitHub Trophies
+[![github profile trophy](https://github-profile-trophy.vercel.app/?username=minyong2&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
